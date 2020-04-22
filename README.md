@@ -1,9 +1,8 @@
 # Probabilistic_Graphlets
 
 This repository contains Python and C++ scripts as well as datasets for 
-"Probabilistic Graphlets: A New Approach to Capture Biological Meaning from 
-Probabilistic Molecular Networks." by Sergio Doria-Belenguer, 
-Markus K. Youssef, René Böttcher, Noël Malod-Dognin and Nataša Pržulj.
+"Probabilistic Graphlets Capture Biological Function in Probabilistic Molecular Networks."
+by Sergio Doria-Belenguer, Markus K. Youssef, René Böttcher, Noël Malod-Dognin and Nataša Pržulj.
 
 *Corresponding author*: Prof.N.Przulj,
 *email*: natasha@bsc.es
